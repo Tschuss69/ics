@@ -18,7 +18,7 @@ import {ICSFooter} from "../../components/Footer/ICSFooter";
 import ICSHeaderLinks from "../../components/Header/ICSHeaderLinks";
 
 
-
+import backgroundImage from "../../assets/img/salleInterventionnelle.jpg"
 
 /*
 *  <Helmet>
@@ -55,7 +55,7 @@ export default function ListeProcedurePage() {
 
 
 
-            <Parallax image={require("../../assets/img/salleInterventionnelle.jpg")} filter="dark" small>
+            <Parallax image={backgroundImage} filter="dark" small>
                 <div className={classes.container}>
                     <GridContainer justify="center">
                         <GridItem xs={12} sm={12} md={8} className={classes.textCenter}>

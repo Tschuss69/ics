@@ -23,6 +23,9 @@ import Cardiopediatres from "./Sections/Cardiopediatres";
 import Radiologues from "./Sections/Radiologues";
 
 
+import backgroudImage from '../../assets/img/icsRhenaExterieur.jpg'
+
+
 /*
 * <Helmet>
             <title>Institut cardio-vasculaire de Strasbourg</title>
@@ -55,7 +58,7 @@ export default function PresentationPage() {
             }}
         />
       <Parallax
-        image={require("../../assets/img/icsRhenaExterieur.jpg")}
+        image={backgroudImage}
         className={classes.parallax}
         filter="dark"
       >

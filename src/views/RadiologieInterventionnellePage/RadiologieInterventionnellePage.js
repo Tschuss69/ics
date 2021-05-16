@@ -21,6 +21,9 @@ import Card from "../../components/Card/Card";
 import CardBody from "../../components/Card/CardBody";
 
 
+import backgroundImage from "../../assets/img/salleInterventionnelle.jpg"
+
+
 /*
 *  <Helmet>
             <title>Radiologie interventionnelle - ICS</title>
@@ -52,7 +55,7 @@ export default function RadiologieInterventionnellePage() {
             }}
         />
       <Parallax
-        image={require("../../assets/img/salleInterventionnelle.jpg")}
+        image={backgroundImage}
         className={classes.parallax}
         filter="dark"
       >

@@ -18,6 +18,8 @@ import ICSHeaderLinks from "../../components/Header/ICSHeaderLinks";
 import {ICSFooter} from "../../components/Footer/ICSFooter";
 import schema_fa_simple from "../../assets/img/pathologies/rythmologie/FA/schema_fa_simple.png";
 
+import backgroundImage from "../../assets/img/salleInterventionnelle.jpg"
+
 
 const useStyles = makeStyles({...presentationStyle, ...sectionsPageStyle});
 
@@ -64,7 +66,7 @@ export function ListeProcedureRythmoPatient() {
             />
 
             <Parallax
-                image={require("../../assets/img/salleInterventionnelle.jpg")}
+                image={backgroundImage}
                 className={classes.parallax}
                 filter="dark"
             >

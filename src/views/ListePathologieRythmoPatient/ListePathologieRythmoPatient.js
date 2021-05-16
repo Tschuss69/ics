@@ -18,6 +18,8 @@ import Parallax from "../../components/Parallax/Parallax";
 import ICSHeaderLinks from "../../components/Header/ICSHeaderLinks";
 import {ICSFooter} from "../../components/Footer/ICSFooter";
 
+import backgroundImage from "../../assets/img/salleInterventionnelle.jpg"
+
 const useStyles = makeStyles({...presentationStyle, ...sectionsPageStyle});
 
 const listePathologiePatient = [
@@ -87,7 +89,7 @@ export function ListePathologieRythmoPatient() {
             />
 
             <Parallax
-                image={require("../../assets/img/salleInterventionnelle.jpg")}
+                image={backgroundImage}
                 className={classes.parallax}
                 filter="dark"
             >
