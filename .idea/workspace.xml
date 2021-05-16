@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9366b89-7733-4fd1-b2d1-318f78ba0835" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/buttonGroupStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/accordionStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/badgeStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/buttonStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/cardAvatarStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/cardBodyStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/cardFooterStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/cardHeaderStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/cardStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/customDropdownStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/customFileInputStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/customInputStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/customLinearProgressStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/customTabsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/footerStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/headerLinksStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/headerStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/infoStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/instructionStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/mediaStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/navPillsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/paginationStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/parallaxStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/snackbarContentStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/tableStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/components/typographyStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/customCheckboxRadioSwitchStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/customSelectStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/imagesStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/modalStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/popoverStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/rotatingCards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/tooltipsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/aboutUsSections/contactStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/aboutUsSections/descriptionStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/aboutUsSections/officeStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/aboutUsSections/servicesStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/aboutUsSections/teamStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/aboutUsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostPageStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostSections/sectionBlogInfoStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostSections/sectionCommentsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostSections/sectionSimilarStoriesStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostSections/sectionTextStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostsPageStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostsSections/sectionImageStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostsSections/sectionInterestedStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostsSections/sectionPillsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/blogPostsSections/sectionSubscribeLineStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/basicsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/carouselStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/contentAreas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/footerStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/javascriptStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/navbarsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/notificationsStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/pillsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/preFooter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/sectionCards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/tabsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsSections/typographyStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/componentsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/contactUsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/ecommerceSections/blogStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/ecommerceSections/latestOffersStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/ecommerceSections/productsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/ecommerceStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/errorPageStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/landingPageSections/productStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/landingPageSections/teamStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/landingPageSections/workStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/landingPageStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/loginPageStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationSections/cardsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationSections/componentsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationSections/contentStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationSections/descriptionStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationSections/examplesStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationSections/freeDemoStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationSections/overviewStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationSections/pricingStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationSections/sectionsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/presentationStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/pricingSections/featuresStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/pricingSections/pricingStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/pricingStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/productStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/profilePageStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/sectionsPageStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/sectionsSections/blogsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/sectionsSections/contactsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/sectionsSections/featuresStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/sectionsSections/headersStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/sectionsSections/pricingStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/sectionsSections/projectsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/sectionsSections/teamsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/sectionsSections/testimonialsStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/shoppingCartStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jss2/material-kit-pro-react/views/signupPageStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l3ryVgZ4cdbMCsPWOLjOJsub3F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+      <recent name="$PROJECT_DIR$/src/views/ArticlePage/Sections" />
+      <recent name="$PROJECT_DIR$/src/views/CongenitalPage/Sections" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9366b89-7733-4fd1-b2d1-318f78ba0835" name="Default Changelist" comment="" />
+      <created>1606836870177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606836870177</updated>
+      <workItem from="1606836872719" duration="60000" />
+      <workItem from="1606940686134" duration="2000" />
+      <workItem from="1607175680487" duration="4105000" />
+      <workItem from="1609332036105" duration="525000" />
+      <workItem from="1618230905308" duration="3849000" />
+      <workItem from="1618785860490" duration="144000" />
+      <workItem from="1621153518901" duration="6831000" />
+      <workItem from="1621170740761" duration="1000" />
+      <workItem from="1621171249234" duration="4609000" />
+      <workItem from="1621177121568" duration="5000" />
+      <workItem from="1621177330665" duration="2866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="124" width="586" height="735" key="find.popup" timestamp="1621167564644">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="642" y="124" width="586" height="735" key="find.popup/0.23.1440.836@0.23.1440.836" timestamp="1621167564644" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/assets/team.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
